@@ -70,22 +70,22 @@
 == Projects
 
 #project(
-  name: "Mausambata",
+    name: link("https://weather4pp.vercel.app/")[Mausambata],
   dates: dates-helper(start-date: "Jan 2026", end-date: "Present"),
   url: "github.com/4nubhav-v/Mausambata",
 )
-- Developed a dynamic weather application using React and Next.js, fetching real-time data from a weather API to display accurate forecasts
-- Built a responsive UI with Tailwind CSS, ensuring optimal display across various devices and screen sizes
+- Developed a dynamic weather application using *React* and *Next.js*, fetching real-time data from a weather API to display accurate forecasts
+- Built a responsive UI with *TailwindCSS*, ensuring optimal display across various devices and screen sizes
 - Handled data fetching and integration with external APIs
 - Built every component from scratch with no third-party UI component libraries
 
 #project(
-  name: "First.fm",
+  name: link("https://first-fm-app.vercel.app/")[First.fm],
   dates: dates-helper(start-date: "May 2025", end-date: "Oct 2025"),
   url: "github.com/4nubhav-v/first.fm",
 )
-- Integrated ListenBrainz APIs to retrieve real-time music listening status
-- Used coverarchive.org to fetch album art
+- Integrated *ListenBrainz APIs* to retrieve real-time music listening status
+- Used *coverarchive.org* to fetch album art
 - Enabled accurate and dynamic updates within the application ecosystem
 - Built reusable components for use in other projects, promoting code modularity and faster development cycles
 
@@ -94,7 +94,7 @@
 - *Languages*: HTML/CSS, JavaScript, TypeScript, Python, Java
 - *Framework*: Vite, Nextjs, Bootstrap, Expressjs 
 - *Developer Tools*: Docker, Github Action, Vercel, UNIX, Rasphberry Pi 4
-- *Technologies*: React, Node.js, Git, Vite, Tailwind CSS, Astro, Threejs, Motion, Bash, Ngnix
+- *Technologies*: React, Node.js, Git, Vite, Tailwind CSS, Astro, Threejs, Motion, Bash, Ngnix, Typst
 - *Soft Skills*: Problem Solving, Communication, Design Planning, Self-Directed Learning, Technical Research
 
 == Languages
