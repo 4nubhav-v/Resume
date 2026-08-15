@@ -91,10 +91,10 @@
 
 
 == Skills
-- *Languages*: HTML/CSS, JavaScript, TypeScript, Python, Java
-- *Framework*: Vite, Nextjs, Bootstrap, Expressjs 
-- *Developer Tools*: Docker, Github Action, Vercel, UNIX, Rasphberry Pi 4
-- *Technologies*: React, Node.js, Git, Vite, Tailwind CSS, Astro, Threejs, Motion, Bash, Ngnix, Typst
+- *Languages*: HTML/CSS, PHP, JavaScript, TypeScript, Python, Java
+- *Framework*: Astro, Nextjs, Expressjs 
+- *Developer Tools*: Vite, Bootstrap, SQLite, Docker, Github Action, Vercel, UNIX, Rasphberry Pi 4
+- *Technologies*: React, Node.js, Git, Tailwind CSS, SQL, Threejs, Motion, Bash, Nginx, Typst
 - *Soft Skills*: Problem Solving, Communication, Design Planning, Self-Directed Learning, Technical Research
 
 == Languages
