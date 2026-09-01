@@ -10,7 +10,7 @@
 
 #let show-sensitive = false
 #set list(spacing: 0.6em)
-#set par(leading: 0.8em)
+#set par(leading: 0.4em)
 
 #show: resume.with(
   author: name,
@@ -70,14 +70,27 @@
 == Projects
 
 #project(
-    name: link("https://weather4pp.vercel.app/")[Mausambata],
+  name: link("https://weather4pp.vercel.app/")[Weather Prediction App],
   dates: dates-helper(start-date: "Jan 2026", end-date: "Present"),
   url: "github.com/4nubhav-v/Mausambata",
 )
-- Developed a dynamic weather application using *React* and *Next.js*, fetching real-time data from a weather API to display accurate forecasts
-- Built a responsive UI with *TailwindCSS*, ensuring optimal display across various devices and screen sizes
-- Handled data fetching and integration with external APIs
-- Built every component from scratch with no third-party UI component libraries
+
+- Built a full-stack weather forecasting application using *Next.js* (App Router) and *React* with strict *TypeScript*, integrating the *Open‑Meteo API* for real-time and forecast weather data.
+- Designed a component-driven UI system with shadcn/ui and Base UI primitives, styled with *Tailwind CSS* v4, ensuring accessible and reusable component architecture.
+- Implemented light/dark theme switching using next-themes and added micro-interactions/animations with *Motion* (Framer Motion) to improve UX polish.
+- Enforced code quality via *ESLint* and *Prettier* for consistent formatting across the codebase.
+- Deployed the application on *Vercel* with continuous deployment from main, delivering a production-hosted live demo.
+
+#project(
+  name: "Self-Hosted Home Server",
+  dates: dates-helper(start-date: "2025", end-date: "Present"),
+  url: "",
+)
+- Deployed and administer in single *SBCs (Raspberry Pi 4)* home server booting from an SSD for improved I/O reliability and endurance.
+- Self-host a *Nextcloud* instance via *Docker* and designed a unified setup that support *rsync*-based backup and restore workflows.
+- Manage the system over *SSH*, including safe shutdown procedures and a GPIO-triggered shutdown button overlay to prevent filesystem corruption on power loss.
+- Use of *Tailscale* that enables encrypted point-to-point connections using the open source WireGuard protocol, which means only devices on your private network can communicate with each other In/Out of the home network
+- Hands-on experience with Linux utility and tools like port checking, port scanning system administration: service management, container networking, storage layout, and permissions troubleshooting outside a managed cloud environment.
 
 #project(
   name: link("https://first-fm-app.vercel.app/")[First.fm],
@@ -91,10 +104,10 @@
 
 
 == Skills
-- *Languages*: HTML/CSS, PHP, JavaScript, TypeScript, Python, Java
+- *Languages*: HTML/CSS, JavaScript, TypeScript, C/C++20, Python, PHP
 - *Framework*: Astro, Nextjs, Expressjs 
-- *Developer Tools*: Vite, Bootstrap, SQLite, Docker, Github Action, Vercel, UNIX, Rasphberry Pi 4
-- *Technologies*: React, Node.js, Git, Tailwind CSS, SQL, Threejs, Motion, Bash, Nginx, Typst
+- *Developer Tools*: Firefox, Linux, SBCs (Rasphberry Pi 4), CodeOSS, Neovim, Figma, Obsidian
+- *Technologies*: React, Node.js, Git, Tailwind CSS, SQL, Threejs, Vercel, Nextcloud, Github, Motion, Bash, Nginx, Typst, Tailscale (WireGuard), SSH
 - *Soft Skills*: Problem Solving, Communication, Design Planning, Self-Directed Learning, Technical Research
 
 == Languages
