@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1790505776.465 "resume.tex" "resume.pdf" "resume" 1790505776.93814 0
+["pdflatex"] 1790507515.61117 "resume.tex" "resume.pdf" "resume" 1790507516.07422 0
   "/usr/share/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf-pc.enc" 1775415801 2211 c42193888177bc8f86d55dca129a9358 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc" 1775415801 2083 60e36f8eac802fcaf19eabe2633b406e ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1775415801 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -134,9 +134,9 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1775415801 43569 fd570f2fa160877d211e859f687312ba ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1790414297 5385779 47c0c393a77fd4a098bacfd57d66b88a ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1790414277 2328189 1a263d19dca1cb9450328fa9c5a5e3e6 ""
-  "resume.aux" 1790505776.8847 710 590804b18f5cb3d67aad0fa105e55d84 "pdflatex"
-  "resume.out" 1790505776.88567 385 194b04e9defd5382dda4c64f9ebec21f "pdflatex"
-  "resume.tex" 1790505775.56874 8053 84bab036f27e5de1579eb517fd3f8a9c ""
+  "resume.aux" 1790507516.01999 710 590804b18f5cb3d67aad0fa105e55d84 "pdflatex"
+  "resume.out" 1790507516.02208 385 194b04e9defd5382dda4c64f9ebec21f "pdflatex"
+  "resume.tex" 1790507512.52118 8260 042c7aadde0757da92f9782a68c1961f ""
   (generated)
   "resume.aux"
   "resume.log"
