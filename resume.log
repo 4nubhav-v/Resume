@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Arch Linux) (preloaded format=pdflatex 2026.9.26)  27 SEP 2026 16:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Arch Linux) (preloaded format=pdflatex 2026.9.26)  4 OCT 2026 15:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -805,15 +805,15 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: 194B04E9DEFD5382DDA4C64F9EBEC21F;385.
  ) 
 Here is how much of TeX's memory you used:
- 18185 strings out of 469515
- 277024 string characters out of 5470807
- 738762 words of memory out of 5000000
+ 18187 strings out of 469515
+ 277068 string characters out of 5470807
+ 739762 words of memory out of 5000000
  46474 multiletter control sequences out of 15000+600000
- 675186 words of font info for 181 fonts, out of 8000000 for 9000
+ 675251 words of font info for 182 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  89i,11n,93p,1003b,512s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/newtx/txsys.pfb></usr/share/texmf-dist/fonts/type1/public/newtx/ztmb.pfb></usr/share/texmf-dist/fonts/type1/public/newtx/ztmr.pfb></usr/share/texmf-dist/fonts/type1/public/newtx/ztmri.pfb>
-Output written on resume.pdf (1 page, 132746 bytes).
+Output written on resume.pdf (1 page, 133638 bytes).
 PDF statistics:
  64 PDF objects out of 1000 (max. 8388607)
  50 compressed objects within 1 object stream
